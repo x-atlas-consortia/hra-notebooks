@@ -163,3 +163,7 @@ cython_debug/
 
 # VS Code settings
 .vscode/
+
+# Large and/or not needed files
+notebooks/data/23_09_CODEX_HuBMAP_alldata_Dryad_merged.csv
+notebooks/23_09_CODEX_HuBMAP_alldata_Dryad_merged.csv
