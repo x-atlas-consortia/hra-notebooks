@@ -160,3 +160,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Large and/or not needed files
+notebooks/data/23_09_CODEX_HuBMAP_alldata_Dryad_merged.csv
+notebooks/23_09_CODEX_HuBMAP_alldata_Dryad_merged.csv
