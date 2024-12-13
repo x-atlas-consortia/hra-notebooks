@@ -11,6 +11,7 @@ Fun and Interesting Python Notebooks that use the HRA
 * [HRA UI Jupyter Widgets Usage](notebooks/hra-ui-widgets-tutorial.ipynb) <a target="_blank" href="https://colab.research.google.com/github/x-atlas-consortia/hra-notebooks/blob/main/notebooks/hra-ui-widgets-tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * [HuBMAP Azimuth Datasets](notebooks/hubmap-azimuth-datasets.ipynb) <a target="_blank" href="https://colab.research.google.com/github/x-atlas-consortia/hra-notebooks/blob/main/notebooks/hubmap-azimuth-datasets.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * [Using the HuBMAP Cells API and the HRA API for Spatial Prediction](notebooks/hra-and-cells-api-us2-spatial-prediction.ipynb) <a target="_blank" href="https://colab.research.google.com/github/x-atlas-consortia/hra-notebooks/blob/main/notebooks/hra-and-cells-api-us2-spatial-prediction.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* [Making a layered visualization of cell neighborhoods in the CDE](notebooks/hra-hierarchical-cell-neighborhoods_layers.ipynb) <a target="_blank" href="https://colab.research.google.com/github/x-atlas-consortia/hra-notebooks/blob/main/notebooks/hra-hierarchical-cell-neighborhoods_layers.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Notebooks around the web
 
