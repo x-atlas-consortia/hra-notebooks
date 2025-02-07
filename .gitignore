@@ -169,3 +169,8 @@ cython_debug/
 notebooks/23_09_CODEX_HuBMAP_alldata_Dryad_merged.csv
 notebooks/us2-results.json
 notebooks/data/23_09_CODEX_HuBMAP_alldata_Dryad_merged.csv
+
+# HRA Workflows Runner files
+*.sif
+/notebooks/data/hwr/
+/notebooks/data/results/
