@@ -1,4 +1,4 @@
-csv_row,id,label,cl_label
+csv_row,iri,crosswalk_label,cl_label
 410,http://purl.obolibrary.org/obo/CL_0000313,serous secreting cell of bronchus submucosal gland,serous secreting cell
 411,http://purl.obolibrary.org/obo/CL_0000313,serous secreting cell of bronchus submucosal gland,serous secreting cell
 412,http://purl.obolibrary.org/obo/CL_0000313,serous secreting cell of bronchus submucosal gland,serous secreting cell
@@ -33,111 +33,6 @@ csv_row,id,label,cl_label
 427,http://purl.obolibrary.org/obo/CL_0002063,type II pneumocyte,pulmonary alveolar type 2 cell
 428,http://purl.obolibrary.org/obo/CL_0002063,type II pneumocyte,pulmonary alveolar type 2 cell
 429,http://purl.obolibrary.org/obo/CL_0002063,type II pneumocyte,pulmonary alveolar type 2 cell
-2169,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-2170,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-2171,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-2172,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-2173,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-2174,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-2175,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-2176,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-2177,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-2178,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-2179,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
-1796,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1797,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1798,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1799,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1800,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1801,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1802,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1803,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1804,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1805,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1806,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1807,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1808,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-1809,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
-3436,http://purl.obolibrary.org/obo/CL_1000324,mast cell,duodenal goblet cell
-3453,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3454,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3455,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3456,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3457,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3458,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3459,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3460,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3461,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3462,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3463,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3464,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3465,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3466,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3467,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3468,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3469,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3470,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3471,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3472,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3473,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3474,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3475,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3476,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3477,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3478,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3479,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3480,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3481,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3482,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3483,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3484,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3485,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3486,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3487,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3488,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3489,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3490,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3491,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3492,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3493,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3494,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3495,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3496,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3497,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3498,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3499,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3500,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3501,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3502,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3503,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3504,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3505,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3506,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3507,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3508,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3509,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3510,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3511,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3512,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3513,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3514,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3515,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3516,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3517,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3518,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3519,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3520,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3521,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3522,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3523,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3524,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3525,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3526,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3527,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3528,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3529,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3530,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
-3531,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
 369,http://purl.obolibrary.org/obo/CL_0000313,serous secreting cell of bronchus submucosal gland,serous secreting cell
 370,http://purl.obolibrary.org/obo/CL_0000313,serous secreting cell of bronchus submucosal gland,serous secreting cell
 371,http://purl.obolibrary.org/obo/CL_0000313,serous secreting cell of bronchus submucosal gland,serous secreting cell
@@ -179,12 +74,20 @@ csv_row,id,label,cl_label
 407,http://purl.obolibrary.org/obo/CL_0000313,serous secreting cell of bronchus submucosal gland,serous secreting cell
 408,http://purl.obolibrary.org/obo/CL_0000313,serous secreting cell of bronchus submucosal gland,serous secreting cell
 409,http://purl.obolibrary.org/obo/CL_0000313,serous secreting cell of bronchus submucosal gland,serous secreting cell
-1256,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1257,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1258,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1259,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1260,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1261,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1796,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1797,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1798,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1799,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1800,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1801,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1802,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1803,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1804,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1805,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1806,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1807,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1808,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
+1809,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
 1810,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
 1811,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
 1812,http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,podocyte
@@ -245,6 +148,111 @@ csv_row,id,label,cl_label
 1866,http://purl.obolibrary.org/obo/CL_1001099,efferent arteriole endothelial cell,kidney efferent arteriole endothelial cell
 1867,http://purl.obolibrary.org/obo/CL_1001099,efferent arteriole endothelial cell,kidney efferent arteriole endothelial cell
 1868,http://purl.obolibrary.org/obo/CL_1001099,efferent arteriole endothelial cell,kidney efferent arteriole endothelial cell
+3436,http://purl.obolibrary.org/obo/CL_1000324,mast cell,duodenal goblet cell
+3453,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3454,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3455,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3456,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3457,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3458,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3459,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3460,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3461,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3462,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3463,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3464,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3465,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3466,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3467,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3468,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3469,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3470,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3471,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3472,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3473,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3474,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3475,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3476,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3477,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3478,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3479,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3480,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3481,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3482,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3483,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3484,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3485,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3486,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3487,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3488,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3489,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3490,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3491,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3492,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3493,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3494,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3495,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3496,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3497,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3498,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3499,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3500,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3501,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3502,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3503,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3504,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3505,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3506,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3507,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3508,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3509,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+2169,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
+2170,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
+2171,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
+3510,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3511,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3512,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3513,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3514,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3515,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3516,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3517,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3518,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3519,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3520,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3521,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3522,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3523,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3524,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3525,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3526,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3527,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3528,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3529,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3530,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+3531,http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,myofibroblast cell
+1256,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1257,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1258,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1259,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1260,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1261,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1262,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1263,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1264,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1265,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1266,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1267,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1268,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+1269,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
+2172,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
+2173,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
+2174,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
+2175,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
+2176,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
+2177,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
+2178,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
+2179,http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,subcapsular thymic epithelial cell
 2489,http://purl.obolibrary.org/obo/CL_0000037,hematopoetic stem cell,hematopoietic stem cell
 2490,http://purl.obolibrary.org/obo/CL_0000037,hematopoetic stem cell,hematopoietic stem cell
 2491,http://purl.obolibrary.org/obo/CL_0000037,hematopoetic stem cell,hematopoietic stem cell
@@ -255,11 +263,3 @@ csv_row,id,label,cl_label
 2496,http://purl.obolibrary.org/obo/CL_0000037,hematopoetic stem cell,hematopoietic stem cell
 2497,http://purl.obolibrary.org/obo/CL_0000037,hematopoetic stem cell,hematopoietic stem cell
 2464,http://purl.obolibrary.org/obo/CL_0000877,splenic marginal zone macrophage,splenic tingible body macrophage
-1262,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1263,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1264,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1265,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1266,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1267,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1268,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
-1269,http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct,kidney inner medulla collecting duct principal cell
