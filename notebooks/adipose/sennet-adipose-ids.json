@@ -1,0 +1,3187 @@
+[
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHT0038-ADV-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT523.ZFJX.447"
+    },
+    "uuid": {
+      "raw": "3db8260ec925ce25fe4c4190bc7e9bb5"
+    },
+    "id": "3db8260ec925ce25fe4c4190bc7e9bb5"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHT0037-ADV-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT665.BWGJ.837"
+    },
+    "uuid": {
+      "raw": "dcb2f3ebd1c1092bf1e9e88b07c646e6"
+    },
+    "id": "dcb2f3ebd1c1092bf1e9e88b07c646e6"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHT0039-ADV-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT335.VMWF.729"
+    },
+    "uuid": {
+      "raw": "12ecdd0e3c5da80200004470bac507a3"
+    },
+    "id": "12ecdd0e3c5da80200004470bac507a3"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0035-ADV-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT497.JFTX.834"
+    },
+    "uuid": {
+      "raw": "ea6ff1ffd7b0f252ce3cf0817e76c791"
+    },
+    "id": "ea6ff1ffd7b0f252ce3cf0817e76c791"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0042-ADV-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT688.FVCN.522"
+    },
+    "uuid": {
+      "raw": "7079db7cd7b0abedb6c38c10bbd08aed"
+    },
+    "id": "7079db7cd7b0abedb6c38c10bbd08aed"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0031-ADV-B0003"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT483.FLBN.596"
+    },
+    "uuid": {
+      "raw": "05265989813b0f97f18f2e1943073158"
+    },
+    "id": "05265989813b0f97f18f2e1943073158"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0040-ADV-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT528.SDTZ.459"
+    },
+    "uuid": {
+      "raw": "047a1e5041312e86b01e6f4c78b1a8bf"
+    },
+    "id": "047a1e5041312e86b01e6f4c78b1a8bf"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0043-ADS-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT568.PXCH.973"
+    },
+    "uuid": {
+      "raw": "a0e43775bc57a747568c6c3232c5442e"
+    },
+    "id": "a0e43775bc57a747568c6c3232c5442e"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0040-ADS-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT743.PZPL.769"
+    },
+    "uuid": {
+      "raw": "a26e84bd64919fe7b75807e610b66d0b"
+    },
+    "id": "a26e84bd64919fe7b75807e610b66d0b"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0043-ADV-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT385.CVNW.878"
+    },
+    "uuid": {
+      "raw": "d33ba173ef97eb435f23c4815e43f13b"
+    },
+    "id": "d33ba173ef97eb435f23c4815e43f13b"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0036-ADV-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT777.CDKW.342"
+    },
+    "uuid": {
+      "raw": "baff4ad80c5cb2f6a8585f79d3c8439c"
+    },
+    "id": "baff4ad80c5cb2f6a8585f79d3c8439c"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0045-ADV-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT276.VFCJ.394"
+    },
+    "uuid": {
+      "raw": "1cd6903bca715eae0b7067354667137a"
+    },
+    "id": "1cd6903bca715eae0b7067354667137a"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0034-ADS-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT526.LKRP.645"
+    },
+    "uuid": {
+      "raw": "63a7dc8ba93811c11b5e4dc7616c460c"
+    },
+    "id": "63a7dc8ba93811c11b5e4dc7616c460c"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0041-ADV-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT997.KGFJ.269"
+    },
+    "uuid": {
+      "raw": "adf51b1dc0f481519c23fc8848728b83"
+    },
+    "id": "adf51b1dc0f481519c23fc8848728b83"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0033-ADS-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT649.QZQF.554"
+    },
+    "uuid": {
+      "raw": "862adec036a5328de110f9c17100407a"
+    },
+    "id": "862adec036a5328de110f9c17100407a"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0034-ADV-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT626.KNRD.552"
+    },
+    "uuid": {
+      "raw": "eb7aa4c1e7489be649bbb618cf91c504"
+    },
+    "id": "eb7aa4c1e7489be649bbb618cf91c504"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0045-ADS-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT373.WSXN.395"
+    },
+    "uuid": {
+      "raw": "f55f2be316de796c4100a462f52b9644"
+    },
+    "id": "f55f2be316de796c4100a462f52b9644"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0041-ADS-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT256.FMXV.863"
+    },
+    "uuid": {
+      "raw": "85d6ff6622cd5eb593a36b1c9a78b032"
+    },
+    "id": "85d6ff6622cd5eb593a36b1c9a78b032"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0035-ADS-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT229.KQMG.887"
+    },
+    "uuid": {
+      "raw": "a2ea050ebb8c778d4150e6b8637c98d3"
+    },
+    "id": "a2ea050ebb8c778d4150e6b8637c98d3"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0036-ADS-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT546.PQGD.722"
+    },
+    "uuid": {
+      "raw": "8498b893f0a5f16549a83c8e8efdcdaf"
+    },
+    "id": "8498b893f0a5f16549a83c8e8efdcdaf"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0042-ADS-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT848.RMZT.995"
+    },
+    "uuid": {
+      "raw": "47942b3f73107c6880977e578ed812dc"
+    },
+    "id": "47942b3f73107c6880977e578ed812dc"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0007-ADS-B0003"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT485.QLCV.683"
+    },
+    "uuid": {
+      "raw": "0f982417e206da73934688d29683c2b3"
+    },
+    "id": "0f982417e206da73934688d29683c2b3"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0032-ADS-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT397.HGLM.937"
+    },
+    "uuid": {
+      "raw": "b8a8fccc814296538d2d23d78114fc39"
+    },
+    "id": "b8a8fccc814296538d2d23d78114fc39"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0005-ADS-B0005"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT976.FRJD.232"
+    },
+    "uuid": {
+      "raw": "5f53fd95122910e5646b63b32e90006d"
+    },
+    "id": "5f53fd95122910e5646b63b32e90006d"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0007-ADV-B0004"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT968.SRFK.553"
+    },
+    "uuid": {
+      "raw": "320eac8dc3ee2120b7fe3e29928b2152"
+    },
+    "id": "320eac8dc3ee2120b7fe3e29928b2152"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0005-ADV-B0006"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT742.ZDQR.996"
+    },
+    "uuid": {
+      "raw": "9d942064106b6c1ce3547264799801a0"
+    },
+    "id": "9d942064106b6c1ce3547264799801a0"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0031-ADS-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT993.QLCC.466"
+    },
+    "uuid": {
+      "raw": "85ba11cf782f902504a1a58b5555920f"
+    },
+    "id": "85ba11cf782f902504a1a58b5555920f"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0033-ADV-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT355.SHXX.396"
+    },
+    "uuid": {
+      "raw": "8bdf6a71742c2ac61c14056730143ad4"
+    },
+    "id": "8bdf6a71742c2ac61c14056730143ad4"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0006-ADS-B0004"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT845.SCKG.443"
+    },
+    "uuid": {
+      "raw": "b0ca71a339ce6d5b42c8313b1b089df5"
+    },
+    "id": "b0ca71a339ce6d5b42c8313b1b089df5"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADS-B0005"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT482.VHLQ.287"
+    },
+    "uuid": {
+      "raw": "9eb4e161e9a3de99737e5ba9402c98af"
+    },
+    "id": "9eb4e161e9a3de99737e5ba9402c98af"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0006-ADV-B0003"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT827.WDDN.262"
+    },
+    "uuid": {
+      "raw": "dbca75235a8e0e8db941726245f238c3"
+    },
+    "id": "dbca75235a8e0e8db941726245f238c3"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0005-ADV-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT244.DFTF.594"
+    },
+    "uuid": {
+      "raw": "218886f96751f027908015cce32bf355"
+    },
+    "id": "218886f96751f027908015cce32bf355"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0007-ADS-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT798.FVPK.992"
+    },
+    "uuid": {
+      "raw": "139e7e8907e173af4165ad5fd64a1c06"
+    },
+    "id": "139e7e8907e173af4165ad5fd64a1c06"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0031-ADV-B0002"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT229.QWJT.257"
+    },
+    "uuid": {
+      "raw": "434a922f6be3481f52d2484e8ba4cb7b"
+    },
+    "id": "434a922f6be3481f52d2484e8ba4cb7b"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0005-ADS-B0003"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT525.RPZD.354"
+    },
+    "uuid": {
+      "raw": "e7131e76390efa647196b15e5db22ad0"
+    },
+    "id": "e7131e76390efa647196b15e5db22ad0"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADS-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT675.XRDL.762"
+    },
+    "uuid": {
+      "raw": "55f0ea4d3d13ec510b11e53e9ac5d476"
+    },
+    "id": "55f0ea4d3d13ec510b11e53e9ac5d476"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADV-B0006"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT852.BNJX.748"
+    },
+    "uuid": {
+      "raw": "7ee7204e4effb6ea842b943b7e1d7e98"
+    },
+    "id": "7ee7204e4effb6ea842b943b7e1d7e98"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADV-B0003"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT467.RSFT.448"
+    },
+    "uuid": {
+      "raw": "165ceb895fdea9a6cf419c99a748c07a"
+    },
+    "id": "165ceb895fdea9a6cf419c99a748c07a"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADS-B0004"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT682.QKXN.697"
+    },
+    "uuid": {
+      "raw": "eff9c041156856c3b07e9072ebc50896"
+    },
+    "id": "eff9c041156856c3b07e9072ebc50896"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0006-ADV-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT653.MVML.696"
+    },
+    "uuid": {
+      "raw": "5418b5a766fdb5d648c562b19f588e62"
+    },
+    "id": "5418b5a766fdb5d648c562b19f588e62"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0005-ADV-B0001"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT742.QZRN.388"
+    },
+    "uuid": {
+      "raw": "c9283665fc93c2df637e8f1ebfbc5ab6"
+    },
+    "id": "c9283665fc93c2df637e8f1ebfbc5ab6"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0032-ADS-B0001-02"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT622.XRPX.627"
+    },
+    "uuid": {
+      "raw": "1a06752395807c83dbeae56d5fdca3f0"
+    },
+    "id": "1a06752395807c83dbeae56d5fdca3f0"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0041-ADV-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT542.QPWM.946"
+    },
+    "uuid": {
+      "raw": "f899a1b8ad2d26cb10a6335a6d5e20d8"
+    },
+    "id": "f899a1b8ad2d26cb10a6335a6d5e20d8"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0036-ADS-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT372.RTTQ.257"
+    },
+    "uuid": {
+      "raw": "dfbe0ec0933af3721255fff2f509ed73"
+    },
+    "id": "dfbe0ec0933af3721255fff2f509ed73"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0043-ADS-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT383.ZTZC.274"
+    },
+    "uuid": {
+      "raw": "ba3f3afe87c9dbe99028f0ce71f1f588"
+    },
+    "id": "ba3f3afe87c9dbe99028f0ce71f1f588"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0042-ADS-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT944.VHBC.433"
+    },
+    "uuid": {
+      "raw": "4f7e3da0b58823fe1d8c92560c587d77"
+    },
+    "id": "4f7e3da0b58823fe1d8c92560c587d77"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0042-ADV-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT972.ZWWT.437"
+    },
+    "uuid": {
+      "raw": "6649a4994c1ef495d539ef13af2e3220"
+    },
+    "id": "6649a4994c1ef495d539ef13af2e3220"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0031-ADV-B0003-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT288.DCMF.846"
+    },
+    "uuid": {
+      "raw": "93024888b8834e1e51303ec806fd63bf"
+    },
+    "id": "93024888b8834e1e51303ec806fd63bf"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0045-ADS-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT459.SGRS.395"
+    },
+    "uuid": {
+      "raw": "84779aac105346b41ce629469052ead9"
+    },
+    "id": "84779aac105346b41ce629469052ead9"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0043-ADV-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT565.KZPL.473"
+    },
+    "uuid": {
+      "raw": "592a89242dc7d07d4877a7ec538499e6"
+    },
+    "id": "592a89242dc7d07d4877a7ec538499e6"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0041-ADS-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT845.RTCH.586"
+    },
+    "uuid": {
+      "raw": "03a62b53ad5d62d10c334c4e68c3f4c7"
+    },
+    "id": "03a62b53ad5d62d10c334c4e68c3f4c7"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0040-ADV-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT973.TRCQ.346"
+    },
+    "uuid": {
+      "raw": "3730c1fdeb0d4c6767db26e161b0db7f"
+    },
+    "id": "3730c1fdeb0d4c6767db26e161b0db7f"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0045-ADV-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT838.MRPB.668"
+    },
+    "uuid": {
+      "raw": "53be078e129119c20f5aa6d1a984ce38"
+    },
+    "id": "53be078e129119c20f5aa6d1a984ce38"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0040-ADS-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT596.XSSS.232"
+    },
+    "uuid": {
+      "raw": "8a27725176dc4a787b5f91b53f2ce482"
+    },
+    "id": "8a27725176dc4a787b5f91b53f2ce482"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHT0038-ADV-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT645.MLKL.686"
+    },
+    "uuid": {
+      "raw": "2d39a1d42e490724e6291824c7b04d6d"
+    },
+    "id": "2d39a1d42e490724e6291824c7b04d6d"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0034-ADV-B0001-02"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT976.ZVMJ.745"
+    },
+    "uuid": {
+      "raw": "daf73c85047da9ce7dadf79e6f4a9b04"
+    },
+    "id": "daf73c85047da9ce7dadf79e6f4a9b04"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHT0039-ADV-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT425.LQWD.493"
+    },
+    "uuid": {
+      "raw": "8b9015aa5d0511d5ade36c228ef79a82"
+    },
+    "id": "8b9015aa5d0511d5ade36c228ef79a82"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0035-ADS-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT999.RNJC.962"
+    },
+    "uuid": {
+      "raw": "add3285c58e8104917343679afea3c0f"
+    },
+    "id": "add3285c58e8104917343679afea3c0f"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0034-ADS-B0002-02"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT682.XKSM.765"
+    },
+    "uuid": {
+      "raw": "52610101cac7603ed456bf2c02fb0f03"
+    },
+    "id": "52610101cac7603ed456bf2c02fb0f03"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0036-ADV-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT262.MDMP.497"
+    },
+    "uuid": {
+      "raw": "2b74ab74e8ace961fd88baaf5adbeb55"
+    },
+    "id": "2b74ab74e8ace961fd88baaf5adbeb55"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0035-ADV-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT585.ZNRF.696"
+    },
+    "uuid": {
+      "raw": "a3c38062b1a8286e0c32e39e795f9032"
+    },
+    "id": "a3c38062b1a8286e0c32e39e795f9032"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHT0037-ADV-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT228.HKQH.644"
+    },
+    "uuid": {
+      "raw": "62dbda9ab4f8987d18bd068347a4b46d"
+    },
+    "id": "62dbda9ab4f8987d18bd068347a4b46d"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0034-ADV-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT778.FXJN.858"
+    },
+    "uuid": {
+      "raw": "a8d3e28e2b9d1383c5786e743ef1fc8a"
+    },
+    "id": "a8d3e28e2b9d1383c5786e743ef1fc8a"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0033-ADS-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT549.KRHM.639"
+    },
+    "uuid": {
+      "raw": "a64fe37f6f3c77d5c25f0bee61714ff8"
+    },
+    "id": "a64fe37f6f3c77d5c25f0bee61714ff8"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0034-ADS-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT846.RXCP.898"
+    },
+    "uuid": {
+      "raw": "215475604a7c23ddd0a4f1d0f049a24f"
+    },
+    "id": "215475604a7c23ddd0a4f1d0f049a24f"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0006-ADS-B0004-02"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT668.PTXG.897"
+    },
+    "uuid": {
+      "raw": "743a8262d5b76d760846007b733040f2"
+    },
+    "id": "743a8262d5b76d760846007b733040f2"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADS-B0001-03"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT486.BZNX.324"
+    },
+    "uuid": {
+      "raw": "4f78cb095b63ce5fe9db787d09434925"
+    },
+    "id": "4f78cb095b63ce5fe9db787d09434925"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADV-B0006-02"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT582.MCGT.575"
+    },
+    "uuid": {
+      "raw": "577f695f464833e46cef36e45dd855c9"
+    },
+    "id": "577f695f464833e46cef36e45dd855c9"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0007-ADS-B0001-03"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT432.FTJL.856"
+    },
+    "uuid": {
+      "raw": "02d4f7cee3f8d6cd3f217b0b4c47305b"
+    },
+    "id": "02d4f7cee3f8d6cd3f217b0b4c47305b"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0007-ADV-B0004-02"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT825.NHLK.342"
+    },
+    "uuid": {
+      "raw": "6fe8a22838b93a0ed6c33c84da5d0538"
+    },
+    "id": "6fe8a22838b93a0ed6c33c84da5d0538"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0033-ADV-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT974.PPCX.497"
+    },
+    "uuid": {
+      "raw": "f24f739e9730fa4f434cc3841fb79ede"
+    },
+    "id": "f24f739e9730fa4f434cc3841fb79ede"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0006-ADV-B0001-03"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT848.FNJW.538"
+    },
+    "uuid": {
+      "raw": "d75d70fbe5b64100843f8a0b4762afc7"
+    },
+    "id": "d75d70fbe5b64100843f8a0b4762afc7"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0007-ADS-B0001-02"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT669.HJSW.976"
+    },
+    "uuid": {
+      "raw": "f2801c10d495676450ecde6cca6778ba"
+    },
+    "id": "f2801c10d495676450ecde6cca6778ba"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADV-B0006-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT547.DCGQ.286"
+    },
+    "uuid": {
+      "raw": "dee513543953f4ad871f8d0b7cd702b8"
+    },
+    "id": "dee513543953f4ad871f8d0b7cd702b8"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0006-ADV-B0001-02"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT885.QLDF.756"
+    },
+    "uuid": {
+      "raw": "59c715e60b419bd85313b32258527452"
+    },
+    "id": "59c715e60b419bd85313b32258527452"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0005-ADV-B0001-02"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT562.TPPV.423"
+    },
+    "uuid": {
+      "raw": "01ede43341147b060e9b46fd274aaeab"
+    },
+    "id": "01ede43341147b060e9b46fd274aaeab"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0006-ADS-B0004-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT368.TMJL.975"
+    },
+    "uuid": {
+      "raw": "ca4180171fcd37b1b3f0d1278d94f4df"
+    },
+    "id": "ca4180171fcd37b1b3f0d1278d94f4df"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADS-B0001-02"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT556.JHMF.383"
+    },
+    "uuid": {
+      "raw": "83bc15ad8ebe4c3631d7cbc3775bbdbc"
+    },
+    "id": "83bc15ad8ebe4c3631d7cbc3775bbdbc"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0032-ADS-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT973.QXJR.948"
+    },
+    "uuid": {
+      "raw": "b2269b012aa5b1d7789c6a47c659f1d0"
+    },
+    "id": "b2269b012aa5b1d7789c6a47c659f1d0"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0007-ADV-B0004-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT576.ZKSF.789"
+    },
+    "uuid": {
+      "raw": "90a6f309f74908bd4d53809744eddb8b"
+    },
+    "id": "90a6f309f74908bd4d53809744eddb8b"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0031-ADV-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT594.CGTP.443"
+    },
+    "uuid": {
+      "raw": "fe5f4100b13081ca6cc44310e5ddd50f"
+    },
+    "id": "fe5f4100b13081ca6cc44310e5ddd50f"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0031-ADS-B0001-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT526.MDDQ.978"
+    },
+    "uuid": {
+      "raw": "f8fb89cf471804232cd5194eb369465e"
+    },
+    "id": "f8fb89cf471804232cd5194eb369465e"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADV-B0003-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT538.ZGTR.252"
+    },
+    "uuid": {
+      "raw": "57d0b184e19465253d6e6e730bf7da7e"
+    },
+    "id": "57d0b184e19465253d6e6e730bf7da7e"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADS-B0004-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT985.NKDT.576"
+    },
+    "uuid": {
+      "raw": "8361cbe4d857df8945268b5d3744788a"
+    },
+    "id": "8361cbe4d857df8945268b5d3744788a"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0006-ADV-B0003-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT752.BVMC.695"
+    },
+    "uuid": {
+      "raw": "40743df3a7336fb6a5b65336bc6dbf2b"
+    },
+    "id": "40743df3a7336fb6a5b65336bc6dbf2b"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0005-ADS-B0003-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT982.KDMV.676"
+    },
+    "uuid": {
+      "raw": "f44ef28a19aa19f290356e0cde96b1b2"
+    },
+    "id": "f44ef28a19aa19f290356e0cde96b1b2"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0005-ADV-B0002-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT293.NNHH.279"
+    },
+    "uuid": {
+      "raw": "e65f9340b08b92aa979403c4cdf7fe93"
+    },
+    "id": "e65f9340b08b92aa979403c4cdf7fe93"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0005-ADV-B0006-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT755.VGHP.697"
+    },
+    "uuid": {
+      "raw": "f84925baf32a7a34fb038c828e72d109"
+    },
+    "id": "f84925baf32a7a34fb038c828e72d109"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0005-ADS-B0005-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT866.TMTJ.326"
+    },
+    "uuid": {
+      "raw": "65638e3819b66d1e1bd4b3800568bc20"
+    },
+    "id": "65638e3819b66d1e1bd4b3800568bc20"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0007-ADS-B0003-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT693.FDHG.624"
+    },
+    "uuid": {
+      "raw": "d53946a88a97455c92f41e0f3a1fe063"
+    },
+    "id": "d53946a88a97455c92f41e0f3a1fe063"
+  },
+  {
+    "description": {
+      "raw": ""
+    },
+    "entity_type": {
+      "raw": "Sample"
+    },
+    "group_name": {
+      "raw": "TMC - University of Minnesota - Niedernhofer"
+    },
+    "group_uuid": {
+      "raw": "ca21ca01-50a0-11ed-839d-ef21729c63fc"
+    },
+    "lab_tissue_sample_id": {
+      "raw": "SNHB0008-ADS-B0005-01"
+    },
+    "origin_samples": {
+      "raw": [
+        {
+          "organ": "UBERON:0001013",
+          "organ_hierarchy": "Adipose Tissue"
+        }
+      ]
+    },
+    "sample_category": {
+      "raw": "Block"
+    },
+    "sennet_id": {
+      "raw": "SNT625.WJGG.438"
+    },
+    "uuid": {
+      "raw": "840e12e4cc5f7c9896b6bde99a45f42b"
+    },
+    "id": "840e12e4cc5f7c9896b6bde99a45f42b"
+  }
+]
