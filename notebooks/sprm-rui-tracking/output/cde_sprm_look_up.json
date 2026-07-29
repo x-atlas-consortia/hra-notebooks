@@ -1,0 +1,3017 @@
+{
+    "HBM222.WQKC.382": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM757.RCQV.574",
+        "sample_uuid": "daebeb19e2e86bdac39de645f042a4f0",
+        "sample_category": "section"
+    },
+    "HBM224.DTZL.954": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM672.BSDQ.437",
+        "sample_uuid": "fcff52017eba618a1817d6b120159c1a",
+        "sample_category": "section"
+    },
+    "HBM224.KGNF.646": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM528.TXLT.639",
+        "sample_uuid": "1e2664bdaaa0b440e4d677926b0b68bf",
+        "sample_category": "section"
+    },
+    "HBM224.RCHM.744": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM486.VLHV.473",
+        "sample_uuid": "fa49a9a635827782255853c1acb0a7a8",
+        "sample_category": "section"
+    },
+    "HBM225.PQGQ.852": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM329.ZDNZ.827",
+        "sample_uuid": "c74364a66298a699cad3663f82dce379",
+        "sample_category": "section"
+    },
+    "HBM226.SDCN.999": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM867.ZGXD.882",
+        "sample_uuid": "84a004e1079fbb8afa3ef26d9ce03a98",
+        "sample_category": "section"
+    },
+    "HBM228.MLPT.762": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM464.JCXF.787",
+        "sample_uuid": "2e52841bbd201dd5c3de762e859442d1",
+        "sample_category": "section"
+    },
+    "HBM228.NLNS.669": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM332.NGCB.383",
+        "sample_uuid": "855d20f8f1a949b53ca4dcc74cfd2248",
+        "sample_category": "section"
+    },
+    "HBM233.GTZN.466": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM784.HDDK.583",
+        "sample_uuid": "87683a35dac84b19c757a72ac9ebe7d6",
+        "sample_category": "block"
+    },
+    "HBM236.WBFT.443": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Yiing Lin",
+        "sample_created_by_user_email": "liny@wustl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM465.ZCWN.623",
+        "sample_uuid": "eed96170f42554db84d97d1652bb23ef",
+        "sample_category": "organ"
+    },
+    "HBM237.DLKC.855": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM596.FTBX.749",
+        "sample_uuid": "9e04c79f07ca87f4e9953bca0b6e40a2",
+        "sample_category": "section"
+    },
+    "HBM243.BKXT.647": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM523.GBXV.898",
+        "sample_uuid": "eeb2e54b9baa7702fa30d46a8dcbd87b",
+        "sample_category": "section"
+    },
+    "HBM244.TJLK.223": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM787.DGRJ.473",
+        "sample_uuid": "d5ed99bb117cc5926f6c75c2dda38713",
+        "sample_category": "section"
+    },
+    "HBM244.TVNH.734": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM245.FVXP.672",
+        "sample_uuid": "ac851bd82b0745e9c39fd3c79e4b8085",
+        "sample_category": "block"
+    },
+    "HBM245.NHMB.685": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM254.QFCD.845",
+        "sample_uuid": "b9a107a787dd4d8101f5397d3ec988c7",
+        "sample_category": "block"
+    },
+    "HBM246.VPVL.879": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM663.CXTS.935",
+        "sample_uuid": "0ccf43ecc685e2ce2bd339fb87a240a2",
+        "sample_category": "section"
+    },
+    "HBM248.CCGT.382": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM597.FSCM.797",
+        "sample_uuid": "43935fa45d267f795864d1758fa94949",
+        "sample_category": "section"
+    },
+    "HBM252.GGCL.762": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM884.NDDT.984",
+        "sample_uuid": "129e463aabf069cf52fd3257415e8c16",
+        "sample_category": "section"
+    },
+    "HBM253.MXKW.373": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM665.WCFR.932",
+        "sample_uuid": "db4171ae4cb6ebcfca6479bc2090fd64",
+        "sample_category": "block"
+    },
+    "HBM253.PQVP.942": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM524.PXRD.478",
+        "sample_uuid": "7d154d1c5753c8fb1fbc75639a50773d",
+        "sample_category": "section"
+    },
+    "HBM255.FCJD.432": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM844.LDTG.476",
+        "sample_uuid": "732bae85d5eeb8af1b4f627a44249c9d",
+        "sample_category": "section"
+    },
+    "HBM257.TFFM.796": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM465.JHNT.983",
+        "sample_uuid": "80ecd6fe65897994777a91af4fa2ad26",
+        "sample_category": "section"
+    },
+    "HBM258.SWDZ.622": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM459.WXFQ.973",
+        "sample_uuid": "2a71e222f2309d044eb935190119383b",
+        "sample_category": "section"
+    },
+    "HBM258.WPBZ.892": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM593.HGFL.923",
+        "sample_uuid": "e32c61f615dd50fca6caf649ac61974f",
+        "sample_category": "section"
+    },
+    "HBM259.FWHD.689": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM444.LHKV.877",
+        "sample_uuid": "f4467a15d5dfb58707463f212f5a23ba",
+        "sample_category": "section"
+    },
+    "HBM264.HHBZ.855": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM922.THRB.989",
+        "sample_uuid": "62913657e1d083386812d3d2a3736c09",
+        "sample_category": "section"
+    },
+    "HBM267.BZKT.867": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM473.VKCM.878",
+        "sample_uuid": "28a3bf68c312d5fcfd6abe101261b880",
+        "sample_category": "section"
+    },
+    "HBM268.ZZGQ.759": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM878.PDKQ.652",
+        "sample_uuid": "d7bf0f582824a2bee27f4d915d395345",
+        "sample_category": "section"
+    },
+    "HBM273.ZHHG.846": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM659.GGJN.869",
+        "sample_uuid": "884311242ca6899b484c5c429d09c2e7",
+        "sample_category": "section"
+    },
+    "HBM275.HPVH.884": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM854.CFRZ.869",
+        "sample_uuid": "74f7dfbc3bf0a88c5a7cadcfaa687eb2",
+        "sample_category": "section"
+    },
+    "HBM276.ZMLR.392": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM524.QWBV.967",
+        "sample_uuid": "9e4551dbeb6b09ccd1181c092383c7da",
+        "sample_category": "section"
+    },
+    "HBM277.GJFC.833": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM448.NSSK.723",
+        "sample_uuid": "850653bb4a374dad3dd1c8fa977cf0c5",
+        "sample_category": "section"
+    },
+    "HBM277.NSQL.526": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM779.GJFZ.456",
+        "sample_uuid": "12bbb813add894d88057d6080c49fef2",
+        "sample_category": "section"
+    },
+    "HBM278.GHLH.482": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM548.BFRK.868",
+        "sample_uuid": "3668b2bf35b865a87b52cfc931fd0ab3",
+        "sample_category": "section"
+    },
+    "HBM278.JPVF.359": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM353.LTQN.689",
+        "sample_uuid": "93e7b3fef8d838596461f96c2e8701f7",
+        "sample_category": "section"
+    },
+    "HBM279.TQRS.775": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM769.GQBZ.382",
+        "sample_uuid": "07ae6e4862e0f332ad49550b6871f5ac",
+        "sample_category": "section"
+    },
+    "HBM283.CPXW.835": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM466.SSTX.986",
+        "sample_uuid": "6fecae4610ca80f1931a50595dc5852b",
+        "sample_category": "section"
+    },
+    "HBM283.GNGR.785": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Hunter Hakimian",
+        "sample_created_by_user_email": "hakimianh13@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM386.GZKR.947",
+        "sample_uuid": "108161a5f5d959e28f975a3bb90a44ac",
+        "sample_category": "section"
+    },
+    "HBM283.ZHQS.286": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM546.SJJK.684",
+        "sample_uuid": "de7ef9e17b64f7dfdbd7304b867067aa",
+        "sample_category": "section"
+    },
+    "HBM285.RQPT.487": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM766.LXXP.855",
+        "sample_uuid": "42a74cba7fca19a4d322a16856a1736e",
+        "sample_category": "section"
+    },
+    "HBM286.PPPQ.526": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM223.ZRQH.282",
+        "sample_uuid": "6dafe0de90e6760277a784755bde3845",
+        "sample_category": "section"
+    },
+    "HBM288.XSQZ.633": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM294.RZFN.624",
+        "sample_uuid": "4f4caa49a9a75256184304591a293621",
+        "sample_category": "section"
+    },
+    "HBM292.FCMS.497": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM487.LMVN.946",
+        "sample_uuid": "2b269613d21a845988d12a344fa89e54",
+        "sample_category": "block"
+    },
+    "HBM293.JJRG.875": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM963.QWRF.252",
+        "sample_uuid": "477507e2ab1308e1d3d299439ebab61c",
+        "sample_category": "section"
+    },
+    "HBM293.LGZW.236": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM799.WGWR.477",
+        "sample_uuid": "8bb8b9e940660828875d59aa02223eb6",
+        "sample_category": "block"
+    },
+    "HBM293.PLZJ.793": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM967.XFXH.267",
+        "sample_uuid": "49f8c5c58e31e344e6816bc01591ac3c",
+        "sample_category": "section"
+    },
+    "HBM294.RHDS.354": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM494.KJNX.923",
+        "sample_uuid": "ff714aa3e79da08b097ac4d31c14b635",
+        "sample_category": "section"
+    },
+    "HBM296.NRCF.473": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM577.XFZD.788",
+        "sample_uuid": "f675bd2109368a87305cfa3a7648ff55",
+        "sample_category": "section"
+    },
+    "HBM297.DGPL.989": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM854.BKGS.837",
+        "sample_uuid": "0ebaafb4419bfb43e90a52ccc28bed34",
+        "sample_category": "section"
+    },
+    "HBM299.PBZF.474": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM295.CRXG.437",
+        "sample_uuid": "ccc158238a523098e88af32800036799",
+        "sample_category": "section"
+    },
+    "HBM327.VGQK.363": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM795.FDNZ.278",
+        "sample_uuid": "21561d76b5993065d847593c8f416330",
+        "sample_category": "section"
+    },
+    "HBM327.VPMV.784": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM979.ZHNW.944",
+        "sample_uuid": "2683bcd504a41deb722df6e9ffefa843",
+        "sample_category": "section"
+    },
+    "HBM334.RPTP.997": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM542.QBSZ.343",
+        "sample_uuid": "7055f185034f03b22983b8950c783905",
+        "sample_category": "block"
+    },
+    "HBM337.FSXL.564": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM355.SPTT.568",
+        "sample_uuid": "036aedbe6ea79708c5d77756e63b2c7f",
+        "sample_category": "section"
+    },
+    "HBM338.KPTD.485": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM355.XFKF.798",
+        "sample_uuid": "adddc9bfecb70bc4666a180318dd0108",
+        "sample_category": "section"
+    },
+    "HBM339.JVHD.976": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM467.GHTB.899",
+        "sample_uuid": "cf97639fb2ee9dfe1df45f85db5e920c",
+        "sample_category": "section"
+    },
+    "HBM339.XXWC.842": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM647.FPJZ.936",
+        "sample_uuid": "e33dbdec521d4ffe9958b2888c3c3a4b",
+        "sample_category": "section"
+    },
+    "HBM342.FSLD.938": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM239.CBWR.263",
+        "sample_uuid": "8d593ea6872956bb98ced0e9b8fda5c8",
+        "sample_category": "section"
+    },
+    "HBM342.JTKN.834": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM768.VJJG.336",
+        "sample_uuid": "01a8403d440c80ca216100f11668c9ac",
+        "sample_category": "section"
+    },
+    "HBM348.KSHK.482": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM969.VXRP.367",
+        "sample_uuid": "57a9395aaa0e1e2b5716812dae1fc4bd",
+        "sample_category": "section"
+    },
+    "HBM349.XMLL.699": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM486.DGTW.547",
+        "sample_uuid": "4d2df5bb244a4774d2289f69c3005059",
+        "sample_category": "section"
+    },
+    "HBM352.MDZF.598": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM455.XJVN.588",
+        "sample_uuid": "34e59e465916de982dbd2444fad3277a",
+        "sample_category": "block"
+    },
+    "HBM352.ZMMK.237": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM845.RVSG.656",
+        "sample_uuid": "b15a9d8229fe7fafd4e6c335ae3077b5",
+        "sample_category": "section"
+    },
+    "HBM353.KBTW.556": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM865.BHPM.556",
+        "sample_uuid": "5daef7975fa8b3c371bd88d09bd9f721",
+        "sample_category": "section"
+    },
+    "HBM354.SLNR.553": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM596.PTDN.442",
+        "sample_uuid": "9c6f98eb7a6c984834683f13d9b7755c",
+        "sample_category": "section"
+    },
+    "HBM354.SVBP.894": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM564.XZNG.439",
+        "sample_uuid": "441909642e4b45ad77c68d6ec7fb564c",
+        "sample_category": "section"
+    },
+    "HBM355.CZJX.599": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM794.RLFN.358",
+        "sample_uuid": "6c0cb3dc099f53027dc4590439c97dff",
+        "sample_category": "section"
+    },
+    "HBM355.JDLK.244": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM939.GHBT.939",
+        "sample_uuid": "c0555e61bbd0e308d4231406accb4ec6",
+        "sample_category": "section"
+    },
+    "HBM355.PMSX.677": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM747.XKKZ.528",
+        "sample_uuid": "7cda6ae4f303a9181764f7828462f41d",
+        "sample_category": "section"
+    },
+    "HBM357.LSBK.728": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM896.ZGFM.484",
+        "sample_uuid": "7c859daa28b66850558d2983f355346d",
+        "sample_category": "section"
+    },
+    "HBM359.DTZL.543": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM658.HMLS.776",
+        "sample_uuid": "ce73297b9d5326c97094055ca3003cfc",
+        "sample_category": "section"
+    },
+    "HBM367.JLJV.287": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM326.ZPHF.576",
+        "sample_uuid": "7dd083f90d3429008e5609a009dbce65",
+        "sample_category": "section"
+    },
+    "HBM367.QMZK.885": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM456.CGKF.372",
+        "sample_uuid": "74d361747e5ed5f41d8c2b4c35450864",
+        "sample_category": "section"
+    },
+    "HBM368.PZJV.258": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM282.XHJW.368",
+        "sample_uuid": "1d5166346a471d1a6a62d40f4c13662c",
+        "sample_category": "section"
+    },
+    "HBM369.TVNZ.782": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM729.NBDK.728",
+        "sample_uuid": "50735421744f1b752bd5a47f725c7e13",
+        "sample_category": "section"
+    },
+    "HBM374.DMXZ.352": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM289.BWJW.663",
+        "sample_uuid": "f98af9cbc9208a37ac2e900eaadbff8e",
+        "sample_category": "section"
+    },
+    "HBM374.LLKS.325": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Hunter Hakimian",
+        "sample_created_by_user_email": "hakimianh13@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM329.NSHR.999",
+        "sample_uuid": "496c2038f27369d56ea1f191068c5f25",
+        "sample_category": "section"
+    },
+    "HBM374.NBPR.367": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM978.BMWQ.885",
+        "sample_uuid": "252e0a17b065622342a9ba78d0ebf215",
+        "sample_category": "section"
+    },
+    "HBM376.QCCJ.269": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM665.ZHCG.473",
+        "sample_uuid": "13900f28089c3f38cafdbd89272f5db1",
+        "sample_category": "section"
+    },
+    "HBM383.LXSQ.768": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM958.SJCV.554",
+        "sample_uuid": "d06122cf1582b3dc540edb9a4d8cf0e0",
+        "sample_category": "section"
+    },
+    "HBM385.MRXX.887": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM225.STJK.636",
+        "sample_uuid": "af42612bfeab4ab2ee0dc67a729c8487",
+        "sample_category": "section"
+    },
+    "HBM386.ZHWD.475": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM768.QWCM.696",
+        "sample_uuid": "fcd9ee7087a8e913e5998d619a1f0b3c",
+        "sample_category": "section"
+    },
+    "HBM386.ZKLM.879": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM388.CCHG.886",
+        "sample_uuid": "b201d65cc2dc8b311462d0a741bb0425",
+        "sample_category": "section"
+    },
+    "HBM389.PKHL.936": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM646.FSBQ.966",
+        "sample_uuid": "988d21f5795b193ba51a7e00b1574ddf",
+        "sample_category": "section"
+    },
+    "HBM396.FNQW.543": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM352.TGQX.793",
+        "sample_uuid": "10159dd4cc20e6ec4a61e6f289bfa61f",
+        "sample_category": "block"
+    },
+    "HBM398.SWKV.256": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM283.TXSS.667",
+        "sample_uuid": "fbb2c6cd239b1978e74ffd00e93ff7db",
+        "sample_category": "block"
+    },
+    "HBM423.MMGW.744": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM373.WHJW.659",
+        "sample_uuid": "2ea69d0db6a46a1fca6a6a7049856edb",
+        "sample_category": "block"
+    },
+    "HBM423.QJJR.545": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM352.GKSZ.368",
+        "sample_uuid": "b72a7631dbd906e64dc1bcdd754c0aba",
+        "sample_category": "block"
+    },
+    "HBM426.BLGP.789": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM964.RBJZ.836",
+        "sample_uuid": "c88ea7fb5bc206fd6fc5bbb8f9e702d1",
+        "sample_category": "section"
+    },
+    "HBM426.LLTT.655": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM395.SKTC.472",
+        "sample_uuid": "d7331bf82cc73c5fcc4f42b555402c3a",
+        "sample_category": "section"
+    },
+    "HBM427.SMGB.866": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM775.KDDL.468",
+        "sample_uuid": "8be83d4cdaf00b040835c83f5ad25750",
+        "sample_category": "section"
+    },
+    "HBM428.WPXP.979": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM535.GMPP.239",
+        "sample_uuid": "f7249828b3f3300f3a0b934600c08127",
+        "sample_category": "section"
+    },
+    "HBM428.ZKRH.262": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM483.WCMN.894",
+        "sample_uuid": "05d56c2c994ef92925b9f64a2e931426",
+        "sample_category": "section"
+    },
+    "HBM429.DWKZ.323": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM432.KLVR.258",
+        "sample_uuid": "ce91014999057077fd56011672b97315",
+        "sample_category": "block"
+    },
+    "HBM432.LLCF.677": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM436.GHWX.449",
+        "sample_uuid": "01f48b43d1440fe7d441cd0a8eb74482",
+        "sample_category": "section"
+    },
+    "HBM433.ZLWP.627": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM284.LKZT.268",
+        "sample_uuid": "af99fe7abd9466881e22d3b8b9107bd5",
+        "sample_category": "block"
+    },
+    "HBM434.GJQF.366": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM585.CKRV.844",
+        "sample_uuid": "1ef40c718f0366811ebea40bda4dc1a5",
+        "sample_category": "section"
+    },
+    "HBM439.HFGX.695": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM367.VFQT.964",
+        "sample_uuid": "816d21585a43728e1b65d04c68b81c61",
+        "sample_category": "section"
+    },
+    "HBM443.XPDK.549": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM838.JRBK.233",
+        "sample_uuid": "a50c780f728db8108ff92926b50670d5",
+        "sample_category": "block"
+    },
+    "HBM446.RBDJ.452": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM845.RJLL.368",
+        "sample_uuid": "7105196a22f772a5f0faac7d3c22688b",
+        "sample_category": "section"
+    },
+    "HBM447.CTPP.495": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM275.CBKS.538",
+        "sample_uuid": "2cf93db33d81a2f151755ff38a67ad59",
+        "sample_category": "section"
+    },
+    "HBM448.FXRB.555": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM552.TXGL.553",
+        "sample_uuid": "3af96a1aa641e82f63d6b7e89893793d",
+        "sample_category": "section"
+    },
+    "HBM448.WCWB.444": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM646.QZJT.563",
+        "sample_uuid": "b7bc2d705bdee7823f29b9e10094492c",
+        "sample_category": "section"
+    },
+    "HBM452.KWSP.459": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM353.KSWM.288",
+        "sample_uuid": "c49177a8c21d481ebf2e12b9dd6cc987",
+        "sample_category": "section"
+    },
+    "HBM456.CLDP.753": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM889.GKJF.626",
+        "sample_uuid": "80f9c58bee010ca5dd73fa83c5b9ca17",
+        "sample_category": "section"
+    },
+    "HBM456.XQLG.678": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM669.FDTP.457",
+        "sample_uuid": "3c6164c0da19678b4e219b460c9ba9a7",
+        "sample_category": "section"
+    },
+    "HBM457.JZFF.434": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Hunter Hakimian",
+        "sample_created_by_user_email": "hakimianh13@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM666.FSNJ.995",
+        "sample_uuid": "5b36664b91bf4ce61ace8a7bf7ab9b69",
+        "sample_category": "section"
+    },
+    "HBM457.QJSC.438": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM743.JGJJ.432",
+        "sample_uuid": "fbf87ac38e54b7a3972673fda83cb3d2",
+        "sample_category": "section"
+    },
+    "HBM458.JHBQ.969": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM454.ZFSS.587",
+        "sample_uuid": "0d47d0f6661667bbc537c5f15faced0d",
+        "sample_category": "section"
+    },
+    "HBM463.SQHJ.376": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM255.XSFW.249",
+        "sample_uuid": "1f7324536be0961eebec9a0b3493322f",
+        "sample_category": "section"
+    },
+    "HBM467.CVLD.644": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM769.QDTP.463",
+        "sample_uuid": "0732c54313cb62efdbc09d778e245043",
+        "sample_category": "section"
+    },
+    "HBM467.LMBG.759": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM795.VZFH.486",
+        "sample_uuid": "a2f1c597634866d6d947e5184be87a40",
+        "sample_category": "section"
+    },
+    "HBM467.RVKV.883": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM383.TQKC.479",
+        "sample_uuid": "156137f62f4e53fb4d737dd7de527159",
+        "sample_category": "section"
+    },
+    "HBM475.DXDC.532": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM937.MZGP.398",
+        "sample_uuid": "c1a9f7ac0babf65af4a280846c91b7f7",
+        "sample_category": "block"
+    },
+    "HBM477.KGGP.574": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM548.JDVQ.889",
+        "sample_uuid": "bad3452ccdd69ac24a744a26840baa3e",
+        "sample_category": "section"
+    },
+    "HBM482.NHCD.375": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM852.KGWN.897",
+        "sample_uuid": "f482542415dad65c3e2e41317b23c963",
+        "sample_category": "section"
+    },
+    "HBM483.KDBW.482": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Hunter Hakimian",
+        "sample_created_by_user_email": "hakimianh13@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM953.CJSJ.835",
+        "sample_uuid": "88340fad926ffd749a5133289e7c0036",
+        "sample_category": "section"
+    },
+    "HBM485.ZGHC.972": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM767.GWTD.822",
+        "sample_uuid": "c6d65cf3aef174156edc165bc53cdb94",
+        "sample_category": "section"
+    },
+    "HBM492.LXSS.627": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM579.DQWG.388",
+        "sample_uuid": "9c84d378a445185863040a8fb982e4eb",
+        "sample_category": "section"
+    },
+    "HBM492.ZVKW.999": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM323.BNZF.254",
+        "sample_uuid": "37ed1f57383303f4029023959f3089b2",
+        "sample_category": "section"
+    },
+    "HBM494.VNTQ.422": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM826.TNCK.998",
+        "sample_uuid": "6da8a421d9dc69e25764adb94c3ab39b",
+        "sample_category": "block"
+    },
+    "HBM495.DFNT.747": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM235.RKMT.928",
+        "sample_uuid": "51f8cd44b2dbac33397a4172cbe21742",
+        "sample_category": "section"
+    },
+    "HBM495.MJDQ.587": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM834.SKVJ.749",
+        "sample_uuid": "73fca47346d33d9047d2498df8c90c55",
+        "sample_category": "section"
+    },
+    "HBM495.VXPX.373": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM437.XHFB.355",
+        "sample_uuid": "6bc5e4809f52bd52aaffffd051bf04c8",
+        "sample_category": "section"
+    },
+    "HBM496.HPHV.342": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM765.TDBS.345",
+        "sample_uuid": "cc7571c7298e41cd0144334bffe9ae1d",
+        "sample_category": "section"
+    },
+    "HBM496.QTTN.457": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM338.XCJS.398",
+        "sample_uuid": "71554b51e6567eb862cb84f89d4cb95d",
+        "sample_category": "section"
+    },
+    "HBM497.DJZH.744": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM786.SFBF.723",
+        "sample_uuid": "f4e20c27fdbafc19fde6693b2f4e6e3b",
+        "sample_category": "section"
+    },
+    "HBM498.TCSV.345": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM775.KDDL.468",
+        "sample_uuid": "8be83d4cdaf00b040835c83f5ad25750",
+        "sample_category": "section"
+    },
+    "HBM522.CFLM.852": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM448.WXBS.964",
+        "sample_uuid": "2c87cae644b3f916c47bee928363d2ec",
+        "sample_category": "section"
+    },
+    "HBM523.XHWW.384": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM797.VZJD.683",
+        "sample_uuid": "f0e6590d29514aa3edde3223aeb512d5",
+        "sample_category": "block"
+    },
+    "HBM523.ZFKM.398": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM478.PKGV.696",
+        "sample_uuid": "a84172ea4c97423bb0189af20507cc24",
+        "sample_category": "section"
+    },
+    "HBM524.JFVN.863": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM886.RTXR.786",
+        "sample_uuid": "72b95731da099b58b0a25e0fab92db38",
+        "sample_category": "section"
+    },
+    "HBM524.VWGB.378": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM829.WLNR.649",
+        "sample_uuid": "b80365d202504a722373d912eb35c695",
+        "sample_category": "block"
+    },
+    "HBM525.BZJC.926": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM353.CBJQ.547",
+        "sample_uuid": "b5a12ea6b39e9942af7688819392eec8",
+        "sample_category": "section"
+    },
+    "HBM525.JLPD.977": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM886.NDNH.596",
+        "sample_uuid": "0d26a436fd6ff50f1530b16b510051c6",
+        "sample_category": "section"
+    },
+    "HBM526.FFGJ.297": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM359.CRLB.559",
+        "sample_uuid": "a273b6f4865dba0a743aed9cec2446cb",
+        "sample_category": "section"
+    },
+    "HBM527.DXPQ.356": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM537.GZDQ.347",
+        "sample_uuid": "e9b3ed50eb2d436336bf3ee7d2e727bc",
+        "sample_category": "section"
+    },
+    "HBM529.QFWC.259": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM467.FKLH.736",
+        "sample_uuid": "c163204cf9937343d049dcf228af81ef",
+        "sample_category": "section"
+    },
+    "HBM534.CDWW.587": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM493.WSMR.577",
+        "sample_uuid": "fd7f73166bec698111563c20ab5d65f7",
+        "sample_category": "section"
+    },
+    "HBM534.JJHB.889": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM877.CTRR.957",
+        "sample_uuid": "dfe46c1189a37feac56d0abef8a3b15e",
+        "sample_category": "section"
+    },
+    "HBM534.ZDNW.945": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM895.LPHS.455",
+        "sample_uuid": "059f1625193eb6ffbf2750d013e6b3f9",
+        "sample_category": "section"
+    },
+    "HBM537.JPHF.622": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM747.RXQW.339",
+        "sample_uuid": "f18d754cacf6217c66dd2e19b97e84e3",
+        "sample_category": "section"
+    },
+    "HBM538.PGFT.538": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM595.QBKS.265",
+        "sample_uuid": "855045d4390dfa55cb95435eb9c3bcd0",
+        "sample_category": "block"
+    },
+    "HBM539.PKZN.553": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM829.VXXJ.788",
+        "sample_uuid": "242b1e09f01143a024ca105eafdff29b",
+        "sample_category": "section"
+    },
+    "HBM539.WTJT.464": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM925.HHLB.675",
+        "sample_uuid": "c6067e8cff817ee32a69d47d456253b3",
+        "sample_category": "section"
+    },
+    "HBM543.RSRV.265": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Hunter Hakimian",
+        "sample_created_by_user_email": "hakimianh13@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM258.HQGM.626",
+        "sample_uuid": "7b5718f84274347580c8dace619c8fad",
+        "sample_category": "section"
+    },
+    "HBM546.NPGH.532": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM654.BNCJ.392",
+        "sample_uuid": "643ddd68fbd5ef54f3cf7ade1acf607f",
+        "sample_category": "section"
+    },
+    "HBM547.PWMC.589": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM245.GNJT.968",
+        "sample_uuid": "39f1d030f007e83dbe9ead631fa78f40",
+        "sample_category": "section"
+    },
+    "HBM548.TSMP.663": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM473.VKCM.878",
+        "sample_uuid": "28a3bf68c312d5fcfd6abe101261b880",
+        "sample_category": "section"
+    },
+    "HBM549.CJSK.997": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM767.SFKM.792",
+        "sample_uuid": "ae4a84bbc082c14bfab1eb83946cd49e",
+        "sample_category": "section"
+    },
+    "HBM549.JNKH.249": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM836.XHFV.236",
+        "sample_uuid": "57cb23b217f4549f1eebc24ee08d7e21",
+        "sample_category": "section"
+    },
+    "HBM552.JXCB.872": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM873.JZQB.223",
+        "sample_uuid": "eec4a119dc89cb19fa985487b7fbb3e1",
+        "sample_category": "section"
+    },
+    "HBM554.TVPR.268": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM842.GSKG.468",
+        "sample_uuid": "aec86421374c7b254b82647c60745ca5",
+        "sample_category": "section"
+    },
+    "HBM555.ZNTK.962": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM564.JGNB.829",
+        "sample_uuid": "caf98ef548e8cdf239d74b96b2b41a70",
+        "sample_category": "section"
+    },
+    "HBM556.KSFB.592": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM383.TRQG.424",
+        "sample_uuid": "d093d6563dad2457356074c3781d9bea",
+        "sample_category": "section"
+    },
+    "HBM557.PZRZ.633": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM396.NHKJ.793",
+        "sample_uuid": "36b464798962a2969574661dcf996e01",
+        "sample_category": "section"
+    },
+    "HBM558.KGML.422": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM849.VSZB.956",
+        "sample_uuid": "36221252f24f041612c323033f262bf6",
+        "sample_category": "section"
+    },
+    "HBM558.SRZG.629": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM827.VSGK.934",
+        "sample_uuid": "3d0e6983c0c7e8354cb4bded851b15b1",
+        "sample_category": "section"
+    },
+    "HBM559.JCQF.496": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM728.FZHV.492",
+        "sample_uuid": "3617f5e65630bc41ae31003b0eaf6c14",
+        "sample_category": "section"
+    },
+    "HBM562.BDQQ.934": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM496.LSJW.254",
+        "sample_uuid": "a2876f3469cefad87e1193743a457d1a",
+        "sample_category": "section"
+    },
+    "HBM562.FGZT.852": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM786.TDLZ.643",
+        "sample_uuid": "29a33b6d1bb196e32a7de4be31e684e4",
+        "sample_category": "section"
+    },
+    "HBM564.DSPG.945": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM853.QPTX.552",
+        "sample_uuid": "5ded68dde822d1c03ee04fe58b978a7e",
+        "sample_category": "block"
+    },
+    "HBM565.BMSB.555": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM258.FXXQ.547",
+        "sample_uuid": "52d808b4620bb2b6316cab132a9df5f7",
+        "sample_category": "section"
+    },
+    "HBM566.ZCSF.285": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM755.HNKM.846",
+        "sample_uuid": "92ed82d6a5fc93e6f0c36949ceb478af",
+        "sample_category": "section"
+    },
+    "HBM568.NGPL.345": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM562.NTMH.548",
+        "sample_uuid": "5f043da4d6347e2b6f93509c000804d1",
+        "sample_category": "section"
+    },
+    "HBM573.VSJK.526": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM676.BLTC.766",
+        "sample_uuid": "f5efe120b07a958a3e8d20202dfb6670",
+        "sample_category": "section"
+    },
+    "HBM574.RBCK.759": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM785.CGJP.939",
+        "sample_uuid": "8000905b10c544fd1181a400c2e937ba",
+        "sample_category": "section"
+    },
+    "HBM575.MTPD.997": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM382.KGWK.435",
+        "sample_uuid": "be90ed4c3b0f90a71533e308c20e0f50",
+        "sample_category": "section"
+    },
+    "HBM576.GRBW.848": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM674.CVDZ.472",
+        "sample_uuid": "e9ae1b2d99c6cc97289a3ee82c09c83b",
+        "sample_category": "section"
+    },
+    "HBM576.HCWQ.728": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM584.XLNS.943",
+        "sample_uuid": "8469cd1fe9da8f1ca0b37bb58cdf9a5f",
+        "sample_category": "section"
+    },
+    "HBM578.RPXL.745": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM767.LTQP.659",
+        "sample_uuid": "ff04edb6f469f4ca4ae23131ef0ffa06",
+        "sample_category": "section"
+    },
+    "HBM578.XJZQ.389": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM536.BHKD.628",
+        "sample_uuid": "539f15ce78fc8696e99c9d575be864be",
+        "sample_category": "block"
+    },
+    "HBM587.VTDD.789": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM675.PWLX.852",
+        "sample_uuid": "3135de0b9f359f09f9e6891784b88cae",
+        "sample_category": "block"
+    },
+    "HBM594.GWVL.995": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM727.CRWX.535",
+        "sample_uuid": "d28c238b6e7597f84a7ec16e21a5f18c",
+        "sample_category": "section"
+    },
+    "HBM595.CCLS.824": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM296.JGCW.465",
+        "sample_uuid": "23a089e21b2d784c7f1e79cffa31bb36",
+        "sample_category": "section"
+    },
+    "HBM597.QSZV.956": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM838.DLMJ.782",
+        "sample_uuid": "2fd5e2341c703ca534aba69cb96dcf17",
+        "sample_category": "section"
+    },
+    "HBM599.BFHP.494": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM823.KKKP.894",
+        "sample_uuid": "932a048745b3d30bacd0cfc9ba692136",
+        "sample_category": "block"
+    },
+    "HBM622.PXTN.854": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM765.PWNH.343",
+        "sample_uuid": "68a72edf148846828d63e56ddcef4697",
+        "sample_category": "section"
+    },
+    "HBM623.TSMG.452": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM488.PCCL.423",
+        "sample_uuid": "7d12a05ff4cb8e2df61cf9eec0b9f49a",
+        "sample_category": "section"
+    },
+    "HBM624.XMRV.622": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM795.DMGX.828",
+        "sample_uuid": "1222af1638d9bc176f393710cc8b2ebf",
+        "sample_category": "section"
+    },
+    "HBM625.BPDM.987": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM765.FBFZ.845",
+        "sample_uuid": "783690d1f6449bc1042c1c0295d40190",
+        "sample_category": "block"
+    },
+    "HBM625.WNHZ.662": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM847.RFJS.799",
+        "sample_uuid": "13b792dec18227f715abeb1cfdf8579b",
+        "sample_category": "section"
+    },
+    "HBM629.DBKM.347": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM666.QFPZ.232",
+        "sample_uuid": "c21fb09022b6695ba8e29bf82e5315e9",
+        "sample_category": "block"
+    },
+    "HBM633.CLVN.674": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM794.JCHR.674",
+        "sample_uuid": "4a2192a850916486de88f258f5b001ad",
+        "sample_category": "section"
+    },
+    "HBM634.GHPH.986": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM842.GXTS.277",
+        "sample_uuid": "7b41691f25c636fd23a3a3f4cfce4f46",
+        "sample_category": "section"
+    },
+    "HBM634.MSKL.575": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM895.DMHZ.834",
+        "sample_uuid": "3ed9afdc57afaf994670afccb55f3aad",
+        "sample_category": "block"
+    },
+    "HBM636.GTZK.259": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM626.RGND.384",
+        "sample_uuid": "36dfd3ba31b5bf55897ae32ecb36d3b1",
+        "sample_category": "block"
+    },
+    "HBM638.HWQZ.266": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM694.WFKQ.496",
+        "sample_uuid": "000aad7483d8552c4eb798f72f28eac5",
+        "sample_category": "section"
+    },
+    "HBM639.JHBT.479": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM956.VBDH.832",
+        "sample_uuid": "aa84c585e7c9be80da4b0a5c6e2c808b",
+        "sample_category": "section"
+    },
+    "HBM642.BQBQ.999": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM663.SXGB.293",
+        "sample_uuid": "406689324d80f719e1ef57cfe084168c",
+        "sample_category": "section"
+    },
+    "HBM644.QKZS.857": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM378.CSQK.969",
+        "sample_uuid": "b33d1dff93bd4a19fb0e7280ad180928",
+        "sample_category": "block"
+    },
+    "HBM645.QBFQ.879": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM959.DFJK.998",
+        "sample_uuid": "421820f722f109772cea424ea4636f38",
+        "sample_category": "section"
+    },
+    "HBM646.ZRTZ.549": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM677.XRCL.389",
+        "sample_uuid": "bc8006043acca9449857584fcfa10033",
+        "sample_category": "section"
+    },
+    "HBM647.MFQB.496": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM748.ZDKH.494",
+        "sample_uuid": "86e1dc729929d042cf13749fd6ca8b29",
+        "sample_category": "section"
+    },
+    "HBM649.QJJM.548": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM257.HRDV.442",
+        "sample_uuid": "c39299625b49bdbb6fb771c45a8e9d44",
+        "sample_category": "section"
+    },
+    "HBM653.FMZX.257": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM924.MHLR.562",
+        "sample_uuid": "e4454ba09d03e892074e81c0c8d18507",
+        "sample_category": "section"
+    },
+    "HBM654.KTJK.968": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM285.XMBT.542",
+        "sample_uuid": "e258d717ddad14bfe1794690ae96d52e",
+        "sample_category": "section"
+    },
+    "HBM654.MLRM.725": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM944.KDNK.782",
+        "sample_uuid": "bdcc96e3882ddcdd1de604d2e2453106",
+        "sample_category": "block"
+    },
+    "HBM656.WRHJ.584": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM226.PVNL.877",
+        "sample_uuid": "b7fefc4007310100498d590cb1b881ab",
+        "sample_category": "section"
+    },
+    "HBM657.JVPV.825": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM463.FBXN.343",
+        "sample_uuid": "edd2898e222ee5103b97084e3a528fd8",
+        "sample_category": "block"
+    },
+    "HBM658.HHLH.689": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM799.RXWZ.543",
+        "sample_uuid": "05eae5d5018cf4b09434aaadf5f8a387",
+        "sample_category": "block"
+    },
+    "HBM658.WGPT.978": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM655.RKDX.442",
+        "sample_uuid": "26d28342879bc2b31983c4083a46bc1f",
+        "sample_category": "block"
+    },
+    "HBM659.XHFH.996": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM894.RZFJ.749",
+        "sample_uuid": "18f36f92a904bf56765194894df53565",
+        "sample_category": "section"
+    },
+    "HBM665.ZMNL.735": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM479.MSPR.779",
+        "sample_uuid": "4e40589578e3cccf4fe69a8f1ba950d3",
+        "sample_category": "section"
+    },
+    "HBM675.RHMB.532": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM322.ZJLQ.994",
+        "sample_uuid": "d1b1fbc0e56afb92b97099d59bc2dad7",
+        "sample_category": "section"
+    },
+    "HBM676.VBCN.445": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM852.NHMT.774",
+        "sample_uuid": "d1e1b14015d35dcc6fed7ca2091d2910",
+        "sample_category": "block"
+    },
+    "HBM678.BNTK.599": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM792.QQVF.457",
+        "sample_uuid": "d2d6e275f32454335318443c25fdd2b6",
+        "sample_category": "section"
+    },
+    "HBM685.PCCJ.427": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM483.BQRP.933",
+        "sample_uuid": "4325cc3fefa49b6b6d099527bb01bdab",
+        "sample_category": "block"
+    },
+    "HBM687.CWVH.758": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Hunter Hakimian",
+        "sample_created_by_user_email": "hakimianh13@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM684.MFNQ.782",
+        "sample_uuid": "035aa5d9bbeb2e93dfccc7e43e477f4c",
+        "sample_category": "section"
+    },
+    "HBM688.XSDW.776": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM292.TSVF.375",
+        "sample_uuid": "18881113ca50a2e19343ef6c97d19b50",
+        "sample_category": "section"
+    },
+    "HBM689.DMZD.693": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM272.LPZZ.769",
+        "sample_uuid": "7255cd1c851845f6c002db961e6cc22e",
+        "sample_category": "section"
+    },
+    "HBM692.JWNQ.842": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM367.WQNG.883",
+        "sample_uuid": "5602e22da0717056a32d4beab5675a78",
+        "sample_category": "section"
+    },
+    "HBM692.LRPB.358": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM693.SNBM.585",
+        "sample_uuid": "bd0167330e1f9f871ed3f44a505d237e",
+        "sample_category": "section"
+    },
+    "HBM693.GXCW.762": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM793.CCFC.654",
+        "sample_uuid": "b42e747ef3006bbdf303be3fcdb599d5",
+        "sample_category": "section"
+    },
+    "HBM694.KGHJ.534": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM348.DGTW.625",
+        "sample_uuid": "9f4cc0c97ee34930da99666816a1615e",
+        "sample_category": "section"
+    },
+    "HBM695.PKFW.682": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM847.QJCF.257",
+        "sample_uuid": "2d23a72289b115a2febbb44d6abb9ea4",
+        "sample_category": "section"
+    },
+    "HBM696.QBDC.928": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM946.FKPK.522",
+        "sample_uuid": "b6e5359d63d41f3f34ba617dc3ed6a4a",
+        "sample_category": "section"
+    },
+    "HBM699.QBTP.684": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM484.DHBH.498",
+        "sample_uuid": "955938121425c03fb86f29d8e9ab6684",
+        "sample_category": "section"
+    },
+    "HBM723.BZKF.992": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Hunter Hakimian",
+        "sample_created_by_user_email": "hakimianh13@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM793.RWLL.553",
+        "sample_uuid": "59666ae1110efa7e9e964684125fe84e",
+        "sample_category": "section"
+    },
+    "HBM724.PJNC.827": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM436.GHWX.449",
+        "sample_uuid": "01f48b43d1440fe7d441cd0a8eb74482",
+        "sample_category": "section"
+    },
+    "HBM725.QFKT.594": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM742.FKCG.594",
+        "sample_uuid": "251e2e18951b2be556fcb756f1806f03",
+        "sample_category": "block"
+    },
+    "HBM726.KXWB.325": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM727.NSSH.234",
+        "sample_uuid": "55592c120f4dcdcb2e37cd37d5f01cd9",
+        "sample_category": "section"
+    },
+    "HBM727.VZCG.863": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM967.SCPC.575",
+        "sample_uuid": "02e84abf58078c4fb6c4be0686a9b038",
+        "sample_category": "section"
+    },
+    "HBM729.NHJF.956": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM946.NZJH.496",
+        "sample_uuid": "8be4a2bc497fae72229f236ba80f3f27",
+        "sample_category": "section"
+    },
+    "HBM732.LRMF.287": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM956.VBXX.483",
+        "sample_uuid": "d3661c4d4fb1f3e66c72d00eeffd4f39",
+        "sample_category": "section"
+    },
+    "HBM735.PSTF.274": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM297.KXMS.689",
+        "sample_uuid": "4d09d8397267240454e948505d22b5ff",
+        "sample_category": "block"
+    },
+    "HBM735.PWVL.294": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM548.ZXVD.393",
+        "sample_uuid": "08b81d73ec750b5990ac4ddd03842b44",
+        "sample_category": "section"
+    },
+    "HBM746.ZTBR.275": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM685.KHRQ.684",
+        "sample_uuid": "0c6d45345a1c5ed85278c75a23179cb9",
+        "sample_category": "section"
+    },
+    "HBM747.CQKL.785": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM799.WXHD.535",
+        "sample_uuid": "88b02fdba92027bc12034bce67089326",
+        "sample_category": "section"
+    },
+    "HBM747.RHFN.588": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM579.WWMM.452",
+        "sample_uuid": "ddd408f06d0d38655124b16b5aaaad8f",
+        "sample_category": "section"
+    },
+    "HBM749.PPQP.849": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM978.CQCD.687",
+        "sample_uuid": "c46f3ffa2ad148019ee983453d06b745",
+        "sample_category": "block"
+    },
+    "HBM753.VDXD.934": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM824.KCHV.644",
+        "sample_uuid": "fe1fc10cedb9ef2f97986da71c42a1b7",
+        "sample_category": "block"
+    },
+    "HBM754.SFBF.894": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM764.FQJK.692",
+        "sample_uuid": "69b7f03c30bc3489a0b827864f7933c9",
+        "sample_category": "block"
+    },
+    "HBM754.WKLP.262": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM589.SLVV.423",
+        "sample_uuid": "9b04ceb076a9cc395109e4a69e30407c",
+        "sample_category": "section"
+    },
+    "HBM757.VHCK.858": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM255.SRPR.985",
+        "sample_uuid": "54cde3b0621ca934c6028d504714b5cb",
+        "sample_category": "section"
+    },
+    "HBM764.NXMM.785": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM568.HCVM.373",
+        "sample_uuid": "b2cd4525e7543220dd1483f03ab141be",
+        "sample_category": "section"
+    },
+    "HBM769.NBQL.534": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM974.NDXT.675",
+        "sample_uuid": "ca14a67219e3548a6b55d7b163ee3dae",
+        "sample_category": "section"
+    },
+    "HBM772.CSQS.353": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM777.DPCT.232",
+        "sample_uuid": "dcd404f16d9036d381d655392aa1c45d",
+        "sample_category": "section"
+    },
+    "HBM772.HCWX.787": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM733.WTKC.584",
+        "sample_uuid": "244f25714027d057c009a0ca2f8ecb2d",
+        "sample_category": "section"
+    },
+    "HBM772.XXCD.697": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM372.BQSR.778",
+        "sample_uuid": "074c96e0c614d3f8132a60afdd536db4",
+        "sample_category": "section"
+    },
+    "HBM773.PVXD.869": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM598.QDMQ.435",
+        "sample_uuid": "96320c807b0cdda73f151075174bc61b",
+        "sample_category": "section"
+    },
+    "HBM774.GNCD.967": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM798.LRLG.687",
+        "sample_uuid": "c0b7ee5e81d9bc5ec0c293ad2d2cf02a",
+        "sample_category": "section"
+    },
+    "HBM775.LKTG.696": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM999.SWLL.839",
+        "sample_uuid": "9ef8e244ea8bb506071c639ee77edff9",
+        "sample_category": "section"
+    },
+    "HBM776.FNRJ.959": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM886.FPXG.398",
+        "sample_uuid": "2b8dcc2d1a81515562b8d3ed6e221586",
+        "sample_category": "block"
+    },
+    "HBM776.KFMZ.755": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM974.RSMS.989",
+        "sample_uuid": "1ec6dd1499f05bdded94f05ca70cc845",
+        "sample_category": "section"
+    },
+    "HBM776.SDCW.837": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM886.HXFS.654",
+        "sample_uuid": "ffc79ba8af543395bfbcd753f86f4379",
+        "sample_category": "block"
+    },
+    "HBM777.TLQL.487": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM975.XFRZ.636",
+        "sample_uuid": "a03dd72e182cd1c996b88ecdee09c0e0",
+        "sample_category": "block"
+    },
+    "HBM784.HVPG.384": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM472.BVCJ.336",
+        "sample_uuid": "db5c8eb550d5856061d9e324e0f24280",
+        "sample_category": "section"
+    },
+    "HBM784.TKZX.992": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM668.NQKV.963",
+        "sample_uuid": "0aae451b843a6ac8de1794b2b093ecc5",
+        "sample_category": "block"
+    },
+    "HBM785.QGFZ.856": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM832.NPCZ.374",
+        "sample_uuid": "bdcf7c8eaad71c51d23d5ab68e299c51",
+        "sample_category": "section"
+    },
+    "HBM786.VLVN.435": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM526.RRSQ.749",
+        "sample_uuid": "7fd87e3cd7320eaf04feddca202bc989",
+        "sample_category": "section"
+    },
+    "HBM789.XSZP.797": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM672.DCBL.647",
+        "sample_uuid": "a6f37a3390c2953530849bb8c60ac4f2",
+        "sample_category": "section"
+    },
+    "HBM795.GWKV.825": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM438.JGJH.887",
+        "sample_uuid": "5058beb6cdf7e9445d3e3d944822762e",
+        "sample_category": "block"
+    },
+    "HBM796.NKQB.286": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM546.ZBLS.743",
+        "sample_uuid": "16f56e088e38b538a26a9f239fef034c",
+        "sample_category": "section"
+    },
+    "HBM796.TZPX.595": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM743.TTGP.378",
+        "sample_uuid": "b3eb24428e93898030f2f06c33823e6d",
+        "sample_category": "section"
+    },
+    "HBM798.MXFT.837": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM499.TKDW.458",
+        "sample_uuid": "1f1546604381b8fa6da5fae1e2b96808",
+        "sample_category": "section"
+    },
+    "HBM798.WZKK.699": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM547.WSBD.673",
+        "sample_uuid": "0e509604041b42bd84afc997d26cf0ac",
+        "sample_category": "section"
+    },
+    "HBM798.XDVP.432": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM886.TTNP.776",
+        "sample_uuid": "ec484bb5af3e63eea8b56e49397cfbd6",
+        "sample_category": "section"
+    },
+    "HBM825.PBVN.284": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM772.TKGJ.794",
+        "sample_uuid": "7000456f479ecdd3a5c7f4ba70ada709",
+        "sample_category": "section"
+    },
+    "HBM829.FTCD.454": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM768.QCNJ.267",
+        "sample_uuid": "0f3480c08a8c0ad51a9252308fbdf344",
+        "sample_category": "section"
+    },
+    "HBM829.PDDG.496": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM584.DPBC.259",
+        "sample_uuid": "28554e11875cffe6ba390636bbaac526",
+        "sample_category": "section"
+    },
+    "HBM829.QZQP.626": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM276.JNJX.473",
+        "sample_uuid": "60ca84d81d1d5e0f3628311bcd39d04c",
+        "sample_category": "block"
+    },
+    "HBM834.ZFVJ.978": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM278.SFQW.627",
+        "sample_uuid": "973e37bf187d9a7acf82e712fc00d750",
+        "sample_category": "section"
+    },
+    "HBM836.RWTL.263": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM247.CVXH.673",
+        "sample_uuid": "382f2582122e4b9b2d0a77a73cbab29d",
+        "sample_category": "section"
+    },
+    "HBM837.GSBZ.237": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM379.JVKZ.428",
+        "sample_uuid": "d123478c24841d6c1fdc7b82f5ce136c",
+        "sample_category": "section"
+    },
+    "HBM837.KNJV.852": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM749.WJVZ.287",
+        "sample_uuid": "7ad87885968e0a9dd168cebd347fbb49",
+        "sample_category": "section"
+    },
+    "HBM837.RHNC.533": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM385.HXJH.658",
+        "sample_uuid": "e54d820ce002802fa5964b2a2ee841bb",
+        "sample_category": "block"
+    },
+    "HBM838.VLBV.829": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM925.HLCW.232",
+        "sample_uuid": "ffcf6bd503a4077122e6128786a86308",
+        "sample_category": "section"
+    },
+    "HBM842.LQDP.877": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM734.XPFM.799",
+        "sample_uuid": "9ca2e95cb56ac36d43dcbb3dc4e7860d",
+        "sample_category": "block"
+    },
+    "HBM845.PKDG.353": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM432.XKRF.984",
+        "sample_uuid": "fb5bd4a5ebf774b02e1ca47fe2a0441d",
+        "sample_category": "section"
+    },
+    "HBM848.MJVK.888": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM786.TTJJ.753",
+        "sample_uuid": "578b2bb9ac8b6323baaa4727b4f6c06a",
+        "sample_category": "section"
+    },
+    "HBM852.WWTR.224": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM835.DJNQ.872",
+        "sample_uuid": "0f081ce159d4a0abe726ecba6dbc537c",
+        "sample_category": "section"
+    },
+    "HBM857.KSRQ.839": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM525.QLHZ.975",
+        "sample_uuid": "1f0c7f5a8868ef4abb1e96350183f161",
+        "sample_category": "section"
+    },
+    "HBM857.WQJX.764": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM969.XCFC.599",
+        "sample_uuid": "bfbc4aafbb403c260c8028d7f850e6fa",
+        "sample_category": "section"
+    },
+    "HBM862.DDDQ.629": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM738.JPMB.539",
+        "sample_uuid": "f82a0299591e001dc15dd3f24eca7998",
+        "sample_category": "section"
+    },
+    "HBM862.GJRT.992": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM755.QCTK.795",
+        "sample_uuid": "2c1f3de7dabaa8a17da1ffd77a4f14df",
+        "sample_category": "section"
+    },
+    "HBM866.TGNJ.847": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM237.GGPR.739",
+        "sample_uuid": "7d5a649c52c1313560bc616e1231b56b",
+        "sample_category": "section"
+    },
+    "HBM869.VZJM.366": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM333.XLPQ.736",
+        "sample_uuid": "782f450914acb93880ec8aad95643480",
+        "sample_category": "section"
+    },
+    "HBM875.MRXW.469": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM373.DNQK.264",
+        "sample_uuid": "8ea3405c99fdbea449bb4cea2c2e046a",
+        "sample_category": "section"
+    },
+    "HBM882.DBTR.869": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Hunter Hakimian",
+        "sample_created_by_user_email": "hakimianh13@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM654.KBMC.352",
+        "sample_uuid": "cc0d2ee7b53cf631c4d20e50b5bb81c4",
+        "sample_category": "section"
+    },
+    "HBM883.PBZB.248": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM979.HQLD.748",
+        "sample_uuid": "3f30656be97c29dc0d30a95c4a6d1ca7",
+        "sample_category": "section"
+    },
+    "HBM885.KDQV.248": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM735.ZGQL.436",
+        "sample_uuid": "e415251d00b7596b02446bfbbdb85164",
+        "sample_category": "section"
+    },
+    "HBM885.LXGS.976": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM425.MRZH.399",
+        "sample_uuid": "28982cb9be0d144268b89d51a5a0287f",
+        "sample_category": "section"
+    },
+    "HBM886.BWML.747": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM954.VXXZ.759",
+        "sample_uuid": "9757ddd5bb2edbf99e36640ae1858279",
+        "sample_category": "section"
+    },
+    "HBM886.NTZN.682": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM862.RLLM.878",
+        "sample_uuid": "acdb17a3cd92f28a6eb8ab5904c37dd3",
+        "sample_category": "block"
+    },
+    "HBM887.DPRS.422": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM642.VDFB.734",
+        "sample_uuid": "4e68b0ccc05006be00cc8d9440899d18",
+        "sample_category": "section"
+    },
+    "HBM887.TLXR.894": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM632.DPVZ.985",
+        "sample_uuid": "c93a30692f01c99384ef7b202ad9ee1a",
+        "sample_category": "section"
+    },
+    "HBM889.KDGM.632": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM936.THPV.749",
+        "sample_uuid": "7fd7eedb4f588e7c7da4dbf91024bcab",
+        "sample_category": "block"
+    },
+    "HBM892.HBJW.994": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Hunter Hakimian",
+        "sample_created_by_user_email": "hakimianh13@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM568.XCCV.763",
+        "sample_uuid": "9adcfe0042e3cdddafcd4791c7b69bd9",
+        "sample_category": "section"
+    },
+    "HBM893.GWWT.254": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM943.XKXB.439",
+        "sample_uuid": "20c26213e52e039afc45091866ee0a74",
+        "sample_category": "section"
+    },
+    "HBM894.NXBD.956": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM643.PJFV.955",
+        "sample_uuid": "1dec59f87cc9239db2c0181c96aaed1c",
+        "sample_category": "section"
+    },
+    "HBM925.CJTM.862": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM759.TNBZ.742",
+        "sample_uuid": "1c488206d349367595b0fc143c8642c2",
+        "sample_category": "section"
+    },
+    "HBM926.SHNZ.594": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM395.SXCZ.834",
+        "sample_uuid": "852dae577b0393aa888f8c3c66cd38ac",
+        "sample_category": "block"
+    },
+    "HBM927.KDXB.445": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Hunter Hakimian",
+        "sample_created_by_user_email": "hakimianh13@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM985.QQXN.299",
+        "sample_uuid": "9b979a0c6f4913db275c004b57f54a07",
+        "sample_category": "section"
+    },
+    "HBM929.PRKH.522": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM977.QHXW.349",
+        "sample_uuid": "826538065d76829c8770725514c454b7",
+        "sample_category": "block"
+    },
+    "HBM935.XGNV.348": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM889.XGWJ.293",
+        "sample_uuid": "11d436ac19bf560b016b276a4d1d8d4d",
+        "sample_category": "section"
+    },
+    "HBM937.XPRG.696": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM464.RHLH.686",
+        "sample_uuid": "8113a08108f2d3174b7baf988aa18c95",
+        "sample_category": "block"
+    },
+    "HBM938.GRRV.389": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM579.MMHL.833",
+        "sample_uuid": "c33c2ba8d2030a3ab875764da89096d5",
+        "sample_category": "section"
+    },
+    "HBM942.WHFC.488": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM555.HMBG.982",
+        "sample_uuid": "365739c4dd46f4b7b9b44ede902677fb",
+        "sample_category": "block"
+    },
+    "HBM944.CKWN.576": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM736.TZBL.637",
+        "sample_uuid": "5a26ad5ebe81f1fdd2ee0170b5a97b63",
+        "sample_category": "section"
+    },
+    "HBM946.GRVG.379": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM354.VCFV.796",
+        "sample_uuid": "8b675fffca25c82c530bea18d7b6294e",
+        "sample_category": "block"
+    },
+    "HBM946.NWTV.278": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM366.MKJF.425",
+        "sample_uuid": "7de2b4da1bcc1df5eb305cedb30a20c6",
+        "sample_category": "block"
+    },
+    "HBM953.JHWJ.752": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM389.HWLH.428",
+        "sample_uuid": "3392cf919a00a981264bbfe8cc777940",
+        "sample_category": "section"
+    },
+    "HBM953.LMWQ.235": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM666.VKDJ.428",
+        "sample_uuid": "0cd6c870d7af957300eb309f4e98fc7b",
+        "sample_category": "block"
+    },
+    "HBM953.NPDJ.575": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM459.PPCQ.388",
+        "sample_uuid": "4d750b2cdad1579bb3bd5d89b9223431",
+        "sample_category": "block"
+    },
+    "HBM953.WBFB.656": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM544.LQMZ.626",
+        "sample_uuid": "4a86b28e244ff5691c7ecdb1503a86bd",
+        "sample_category": "section"
+    },
+    "HBM957.JXKN.887": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM343.JQKM.578",
+        "sample_uuid": "0613e49fd408ffd820e7cfb86ca21440",
+        "sample_category": "section"
+    },
+    "HBM958.GGVQ.546": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM599.PSZG.737",
+        "sample_uuid": "c42fdc19bab6cabc2dc92f3f909e85a5",
+        "sample_category": "section"
+    },
+    "HBM959.BVWN.344": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM632.HFRS.782",
+        "sample_uuid": "819a5b3b5c325452ae3c650e50209125",
+        "sample_category": "block"
+    },
+    "HBM962.BFPH.344": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM372.JPKG.444",
+        "sample_uuid": "76fd5ac2f9eb53ceae50f0440a9cef9e",
+        "sample_category": "block"
+    },
+    "HBM962.KNCK.947": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM758.RVWD.227",
+        "sample_uuid": "fab62af1db56f8da4aba76dc790ab7fe",
+        "sample_category": "section"
+    },
+    "HBM964.LVPL.638": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM944.JQST.559",
+        "sample_uuid": "258a34a85adef2fb80607841b70ad559",
+        "sample_category": "section"
+    },
+    "HBM964.TWTV.455": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM747.CBJC.838",
+        "sample_uuid": "631b31ed321e81e161dc5db63b8942ea",
+        "sample_category": "section"
+    },
+    "HBM966.BLFS.983": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM472.SSVZ.372",
+        "sample_uuid": "eb92d474d0155fba8b8cbd34700c2a26",
+        "sample_category": "section"
+    },
+    "HBM966.NKXF.465": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM265.RGQN.958",
+        "sample_uuid": "39ee517e1e5e7a1a908799825710d999",
+        "sample_category": "section"
+    },
+    "HBM968.CJLB.479": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM688.DQGM.882",
+        "sample_uuid": "8d912783076037b57986afa62162f41d",
+        "sample_category": "section"
+    },
+    "HBM969.SDKG.788": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM944.MXDL.633",
+        "sample_uuid": "6bfcbe08854e68c14d52779d27618170",
+        "sample_category": "section"
+    },
+    "HBM972.FWFL.332": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM627.DMMX.227",
+        "sample_uuid": "dc27574ae9ad9cbaf795a8f4e360c3bc",
+        "sample_category": "section"
+    },
+    "HBM972.WNBG.933": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM677.NWSV.346",
+        "sample_uuid": "50d4f32223c8eb4f294b7fa7bb355c45",
+        "sample_category": "block"
+    },
+    "HBM973.GHQH.368": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM382.ZLKT.774",
+        "sample_uuid": "e66f5748196ae61e19afba40c7de273f",
+        "sample_category": "section"
+    },
+    "HBM973.LQCM.488": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM847.GCVL.395",
+        "sample_uuid": "66d62b2991b35fd99408b775aed062e5",
+        "sample_category": "section"
+    },
+    "HBM976.DFCV.879": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM878.SKBT.492",
+        "sample_uuid": "9046adb917839cf28ebe88a808ea1272",
+        "sample_category": "section"
+    },
+    "HBM977.JQGH.993": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM772.WBKD.524",
+        "sample_uuid": "9d6f1ee5e890e6f484b408816606bc32",
+        "sample_category": "section"
+    },
+    "HBM978.KXLG.227": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM358.JTFS.737",
+        "sample_uuid": "c91ddbc79116aef646aff6344a23270c",
+        "sample_category": "section"
+    },
+    "HBM979.KDPM.382": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM947.CXTJ.274",
+        "sample_uuid": "799b1c4cf28a774cb2f612af205c63ec",
+        "sample_category": "section"
+    },
+    "HBM982.WKHJ.983": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM392.XKGR.348",
+        "sample_uuid": "dba03c48fd648f37ddae70fb2c881d19",
+        "sample_category": "section"
+    },
+    "HBM987.XGTH.368": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Marda Jorgensen",
+        "sample_created_by_user_email": "marda@ufl.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM688.DQGM.882",
+        "sample_uuid": "8d912783076037b57986afa62162f41d",
+        "sample_category": "section"
+    },
+    "HBM992.WLFD.899": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM457.NRGP.449",
+        "sample_uuid": "45b7ff8a25ddf9353b5dbfd48bb7637c",
+        "sample_category": "section"
+    },
+    "HBM994.KDNT.678": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "Daniel Cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM529.QBXG.247",
+        "sample_uuid": "2a70c0c2648986e08b8c5b81e6561f68",
+        "sample_category": "block"
+    },
+    "HBM994.PDJN.987": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM265.ZCGR.648",
+        "sample_uuid": "db8bbd16d6ad67ac918f6cdbedd2065a",
+        "sample_category": "section"
+    },
+    "HBM995.WMDN.689": {
+        "sample_is_rui_registered": true,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM899.HDCG.596",
+        "sample_uuid": "83954762a668b4e81c3707717bdad297",
+        "sample_category": "block"
+    },
+    "HBM996.CGFD.228": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "daniel cotter",
+        "sample_created_by_user_email": "Daniel.cotter@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM755.PXDD.845",
+        "sample_uuid": "999801206f8611892c35fe86cbb5c041",
+        "sample_category": "block"
+    },
+    "HBM996.GKXH.482": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM665.GKKK.498",
+        "sample_uuid": "c88946b502c61b73b11089140e565824",
+        "sample_category": "section"
+    },
+    "HBM997.FRKV.293": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM476.BXTL.468",
+        "sample_uuid": "35af0553d88bd215d62c14619277a5d0",
+        "sample_category": "section"
+    },
+    "HBM999.MJZX.394": {
+        "sample_is_rui_registered": false,
+        "sample_created_by_user_displayname": "adam kagel",
+        "sample_created_by_user_email": "ackagel@stanford.edu",
+        "sample_entity_type": "Sample",
+        "sample_hubmap_id": "HBM862.ZLRC.673",
+        "sample_uuid": "b0146946bcfbfb77ec413539dbda5ee1",
+        "sample_category": "section"
+    }
+}
