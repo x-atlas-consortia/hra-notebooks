@@ -174,3 +174,6 @@ notebooks/data/23_09_CODEX_HuBMAP_alldata_Dryad_merged.csv
 *.sif
 /notebooks/data/hwr/
 /notebooks/data/results/
+
+# Claude settings
+.claude
