@@ -1,5 +1,9 @@
 """Checks CDE gallery HuBMAP datasets for RUI registration on their direct ancestor sample."""
 
+install_requirements()
+
+import pandas as pd
+import requests
 import subprocess
 import sys
 from pathlib import Path
@@ -20,13 +24,6 @@ def install_requirements() -> None:
     subprocess.check_call(
         [sys.executable, "-m", "pip", "install", "-r", str(REQUIREMENTS_FILE)]
     )
-
-
-# Must run before importing third-party packages so a fresh venv has them available.
-install_requirements()
-
-import pandas as pd  # noqa: E402
-import requests  # noqa: E402
 
 
 def send_web_request(url: str) -> dict | None:
@@ -67,6 +64,22 @@ def find_sample_rui_status(entity_id: str) -> dict | None:
     )
     if ancestor_response is None:
         return None
+
+    if ancestor_response.get("sample_category") == "section":
+        section_ancestors = ancestor_response.get("direct_ancestors") or []
+        section_ancestor = section_ancestors[0] if section_ancestors else None
+        if (
+            section_ancestor is not None
+            and section_ancestor["entity_type"] == "Sample"
+            and section_ancestor.get("sample_category") == "block"
+        ):
+            block_response = send_web_request(
+                ENTITY_API_BASE_URL + section_ancestor["hubmap_id"]
+            )
+            if block_response is None:
+                return None
+            ancestor_response = block_response
+
     result = {
         "sample_is_rui_registered": "rui_location" in ancestor_response,
         "sample_created_by_user_displayname": ancestor_response[
