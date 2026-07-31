@@ -12,12 +12,12 @@ import json
 REQUIREMENTS_FILE = Path(__file__).parent / "requirements.txt"
 CDE_GALLERY_DATASETS = "https://raw.githubusercontent.com/x-atlas-consortia/hra-spatial-omics-data/refs/heads/main/output-data/cde-gallery-datasets.json"
 ENTITY_API_BASE_URL = "https://entity.api.hubmapconsortium.org/entities/"
-MOSDAP_CSV = "mosdap.csv"
+SWAT_CSV = "swat.csv"
 OUPUT_DIR = "output"
 INPUT_DIR = "input"
 OUTPUT_FILE_JSON_SPRM = "cde_sprm_look_up.json"
 OUTPUT_FILE_CSV_SPRM = "cde_sprm_look_up.csv"
-OUTPUT_FILE_CSV_MOSDAP = "mosdap_look_up.csv"
+OUTPUT_FILE_CSV_swat = "swat_look_up.csv"
 
 
 def install_requirements() -> None:
@@ -166,7 +166,7 @@ def save_to_table(look_up: dict[str, dict | None]) -> None:
         )
 
     df = pd.DataFrame(rows, columns=columns)
-    df.to_csv(f"{OUPUT_DIR}/{OUTPUT_FILE_CSV_MOSDAP}", index=False)
+    df.to_csv(f"{OUPUT_DIR}/{OUTPUT_FILE_CSV_swat}", index=False)
 
 
 # def main() -> None:
@@ -183,12 +183,12 @@ def save_to_table(look_up: dict[str, dict | None]) -> None:
 
 def main() -> None:
     """Report RUI status for each SPRM HuBMAP dataset in the CDE Gallery."""
-    hubmap_ids = get_hubmap_ids_from_csv(f"{INPUT_DIR}/{MOSDAP_CSV}", "hubmap_id")
+    hubmap_ids = get_hubmap_ids_from_csv(f"{INPUT_DIR}/{SWAT_CSV}", "hubmap_id")
     look_up = get_metadata_from_api(hubmap_ids)
     os.makedirs(OUPUT_DIR, exist_ok=True)
     pprint(look_up)
 
-    with open(f"{OUPUT_DIR}/{OUTPUT_FILE_CSV_MOSDAP}", "w") as file:
+    with open(f"{OUPUT_DIR}/{OUTPUT_FILE_CSV_swat}", "w") as file:
         json.dump(look_up, file, indent=4)
     save_to_table(look_up)
 
